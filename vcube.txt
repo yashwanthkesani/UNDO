@@ -1,1 +1,2 @@
-[A[B[B
+this is first line
+this is ignore line
